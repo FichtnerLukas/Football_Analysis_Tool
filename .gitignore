@@ -1,0 +1,36 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Streamlit
+.streamlit/
+
+# Data files
+*.csv
+*.json
+*.pkl
+*.pickle
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
